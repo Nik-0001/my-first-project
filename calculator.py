@@ -1,3 +1,4 @@
+# calculator.py - финальная версия
 def add(a, b):
     """Сложение двух чисел"""
     return a + b
